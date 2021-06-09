@@ -12,7 +12,7 @@ window = tk.Tk()
 #----------------------------------------------------------
 # Greeting
 
-greeting = tk.Label(text="PiCarts Manager 1.0",
+greeting = tk.Label(text="PiCarts Manager",
     fg="white",
     bg="purple")
 
